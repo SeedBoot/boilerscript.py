@@ -21,13 +21,12 @@ Now you can get :fire: even quicker! :metal:
 |--script
 |  |--script.js
 |
-|~~style
-   |--style.css
-|
-|~~style
-   |--export
+|--style
+   |~~style.css
    |
-   |--import
+   |~~export
+   |
+   |~~import
       |--_var.scss
       |--style.scss
 ```
